@@ -1,0 +1,11 @@
+--- block-modes-0.3.2/Cargo.toml	1970-01-01T00:00:00+00:00
++++ block-modes-0.3.2/Cargo.toml	2019-04-28T09:42:52.939035+00:00
+@@ -28,7 +28,7 @@
+ version = "0.3"
+ 
+ [dev-dependencies.hex-literal]
+-version = "0.1"
++version = "0.2"
+ 
+ [features]
+ default = ["std"]
